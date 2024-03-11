@@ -9,3 +9,7 @@ import (
 func main() {
 	fmt.Println("hello: ", sum.Sum(1, 2))
 }
+
+func Show() {
+	fmt.Println("hello: ", sum.Sum(1, 2))
+}
