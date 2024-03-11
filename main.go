@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"test/internal/sum"
+	"github.com/axelx/gopkg/internal/sum"
 )
 
 func main() {
